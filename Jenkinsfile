@@ -1,4 +1,4 @@
-peline {
+pipline {
     agent none 
     stages {
         stage('Build') { 
